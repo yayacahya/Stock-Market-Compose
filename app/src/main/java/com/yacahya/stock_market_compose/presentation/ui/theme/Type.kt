@@ -1,4 +1,4 @@
-package com.yacahya.stock_market_compose.ui.theme
+package com.yacahya.stock_market_compose.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,0 +1,7 @@
+package com.yacahya.stock_market_compose.domain.model
+
+data class CompanyListing(
+    val name: String,
+    val symbol: String,
+    val exchange: String,
+)
